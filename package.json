@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/tzachf/npm-test.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
